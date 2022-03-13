@@ -1,0 +1,1 @@
+Projekt w ramach zajęć z przedmiotu Narzędzia wspierające wytwarzanie oprogramowania WSB Gdańsk
